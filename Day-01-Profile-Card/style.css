@@ -1,0 +1,39 @@
+.card{
+    width:300px;
+    border:2px solid black;
+    padding:20px;
+    margin:50px auto;
+    border-radius:15px;
+    background-color:aqua;
+
+
+}
+
+img{
+    height:150px;
+    width:150px;
+    border-radius:50%;
+     
+
+
+}
+h2{
+    font-size:2rem;
+}
+
+p{
+    font-size:1.2em;
+}
+button{
+    padding:10px;
+    border-radius:10px;
+     background-color:black;
+     color:white;
+}
+
+body{
+    text-align:center;
+}
+html{
+    font-size:10px;
+}
